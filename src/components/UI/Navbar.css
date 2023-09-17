@@ -1,0 +1,21 @@
+.nav-header{
+    width: 100vw;
+    height: 5rem;
+    background-color: #1976D2;
+}
+
+.nav-bar{
+    color: white;
+    margin: 0 auto;
+    width: 90vw;
+    height: 5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.text {
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: monospace;
+}
